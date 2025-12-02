@@ -1,5 +1,5 @@
 import express from "express";
-import productRoutes from "./api/products.js";
+import productRoutes from "./products.js";
 import { initWebSocket } from "./websocket.js";
 import http from "http";
 
